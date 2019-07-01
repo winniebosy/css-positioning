@@ -24,3 +24,21 @@ strong{
 .greenbox{
     background-color: #008000;
 }
+.content2{
+    width:100%;
+    height:auto;
+    background : rgba(100,40,70,0.5);
+   
+    bottom: 40px;
+
+}
+
+.pinkbox{
+    background-color: hsl(332, 100%, 50%);
+    position: absolute;
+    bottom:100px;
+    right:20px;
+}
+.redbox{
+    background-color: hsl(0, 100%, 25%);
+}
