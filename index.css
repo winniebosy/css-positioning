@@ -1,4 +1,25 @@
-*{
-    background-color:rgba(0,0,0,0.5);
+body{
+    background-color:rgba(0,0,0,0.9);
     color:rgba(255,255,255);
+}
+h1{
+    font-weight: normal;
+    text-align: center;
+
+}
+.box{
+    width:100px;
+    height:100px;
+    margin-bottom:14px;
+}
+strong{
+    color:#ff0000;
+}
+.bluebox{
+    background-color: #0000ff;
+    position: fixed;
+    top:150px;
+}
+.greenbox{
+    background-color: #008000;
 }
